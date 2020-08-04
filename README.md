@@ -3,7 +3,7 @@
 * 👩‍💻 Recent Coding Bootcamp Grad 
 * 🔭 I'm currently working on my coding skills & a personal project
 * 🌱 I’m currently learning front-end and how to make a responsive website
-* 🤔 I’m looking for help with interview prep and seeking new opportunities
+* 🤔 I’m looking for help with interview prep and seeking opportunities in web dev
 * 💬 Ask me about how to get started on coding and Java
 * 📫 How to reach me: LinkedIn, Twitter, Email
 * ⚡ Fun fact: My profile pic is when I traveled to Iceland solo!
