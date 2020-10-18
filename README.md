@@ -1,6 +1,6 @@
 ### Hi there, I'm Shirley. 👋
 
-* 👩‍💻 Coding Bootcamp Grad (The Software Guild)
+* 👩‍💻 Creative Coding Bootcamp Grad (The Software Guild)
 * 🔭 I'm currently working on a group project with my colleagues (Novi)
 * 🌱 I’m currently learning front-end technologies
 * 🤔 I’m looking for help seeking opportunities in web dev and interviewing
