@@ -5,7 +5,7 @@
 * 🌱 I’m currently learning front-end technologies
 * 🤔 I’m looking for help seeking opportunities in web dev and interviewing
 * 💬 Ask me about how to get started on coding and Java
-* 📫 How to reach me: LinkedIn, Twitter, Email
+* 📫 How to reach me: [LinkedIn](www.linkedin.com/shirleylaymesosa), Twitter, Email
 * ⚡ Fun fact: My profile pic is when I traveled to Iceland solo!
 <!--
 **shirlz201/shirlz201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
