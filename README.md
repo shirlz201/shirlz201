@@ -2,9 +2,9 @@
 
 * 👩‍💻 Creative Coding Bootcamp Grad (The Software Guild)
 * 🔭 I'm currently working on a group project with my colleagues (Novi)
-* 🌱 I’m currently learning front-end technologies
-* 🤔 I’m looking for help seeking opportunities in web dev and interviewing
-* 💬 Ask me about how to get started on coding and Java
+* 🌱 I’m currently learning front-end technologies (React)
+* 🤔 I’m looking for help for technical interviews
+* 💬 Ask me about how to get started on coding and Java or even traveling!
 * 📫 How to reach me: [LinkedIn](www.linkedin.com/shirleylaymesosa) or [Twitter](https://twitter.com/shirlz201)
 * ⚡ Fun fact: My profile pic is when I traveled to Iceland solo!
 * [Personal Website](https://shirley.codes/)
