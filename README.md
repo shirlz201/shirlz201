@@ -1,8 +1,7 @@
 ### Hi there, I'm Shirley. 👋
 
 * 👩‍💻 Creative Coding Bootcamp Grad (The Software Guild)
-* 🔭 I'm currently working on a group project with my colleagues (Novi)
-* 🌱 I’m currently learning front-end technologies (React)
+=* 🌱 I’m currently learning front-end technologies (React)
 * 🤔 I’m looking for help for technical interviews
 * 💬 Ask me about how to get started on coding and Java or even traveling!
 * 📫 How to reach me: [LinkedIn](www.linkedin.com/shirleylaymesosa) or [Twitter](https://twitter.com/shirlz201)
