@@ -1,4 +1,3 @@
-### Hi there, I'm Shirley. 👋
 
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQGWpk1WXI7dCw/profile-displaybackgroundimage-shrink_350_1400/0?e=1610582400&v=beta&t=vc_5PT7YCr0Coqae36uEx1oN2DX_cw42qVrU7pp418I)
 
