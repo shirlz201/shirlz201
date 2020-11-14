@@ -1,5 +1,7 @@
 ### Hi there, I'm Shirley. 👋
 
+![](https://images.unsplash.com/photo-1559075403-a91eebbc7d03?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+
 * 👩‍💻 Creative Coding Bootcamp Grad (The Software Guild)
 =* 🌱 I’m currently learning front-end technologies (React)
 * 🤔 I’m looking for help for technical interviews
