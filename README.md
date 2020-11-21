@@ -6,7 +6,7 @@
  <br>
  :bank: Software Engineer @ JP Morgan
  <br>
- :computer: [Check out my Personal Website](https://shirley.codes/)
+ :computer: (https://shirley.codes/)
  <br>
  ⚡ Fun fact: My profile pic is when I traveled to Iceland solo
  <br>
