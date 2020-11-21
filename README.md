@@ -1,5 +1,5 @@
 
-![](https://www.canva.com/design/DAEOKZSo-u0/RYa3CNjw7iM0_i_uZLavVA/view?utm_content=DAEOKZSo-u0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![](https://github.com/shirlz201/shirlz201/blob/master/myBanner.png)
 
 * 👩‍💻 Coding Bootcamp Grad from the Software Guild
 * :bank: Software Engineer @ JP Morgan
