@@ -1,13 +1,16 @@
 
 ![](https://github.com/shirlz201/shirlz201/blob/master/myBanner.png)
 
-
- ->👩‍💻 Coding Bootcamp Grad from the Software Guild
+<p align="center">
+ 👩‍💻 Coding Bootcamp Grad from the Software Guild
+ <br>
  :bank: Software Engineer @ JP Morgan
+ <br>
  :computer: [Check out my Personal Website](https://shirley.codes/)
+ <br>
  ⚡ Fun fact: My profile pic is when I traveled to Iceland solo
- :bulb: Feel free to reach out with any questions!<-
-
+ <br>
+ :bulb: Feel free to reach out with any questions! </p>
 
 
 <!--
