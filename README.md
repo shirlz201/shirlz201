@@ -2,7 +2,7 @@
 ![](https://github.com/shirlz201/shirlz201/blob/master/myBanner.png)
 
 <p align="center">
- 👩‍💻 Coding Bootcamp Grad from the Software Guild
+ 👩‍💻 Coding Bootcamp Grad (The Software Guild)
  <br>
  :bank: Software Engineer 
  <br>
