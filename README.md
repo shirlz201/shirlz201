@@ -4,7 +4,7 @@
 <p align="center">
  👩‍💻 Coding Bootcamp Grad from the Software Guild
  <br>
- :bank: Software Engineer @ JP Morgan
+ :bank: Software Engineer 
  <br>
  :computer: :coffee: :earth_americas: :art: :memo:
  <br>
