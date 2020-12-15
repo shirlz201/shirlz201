@@ -10,7 +10,7 @@
  <br>
  ⚡ Fun fact: My profile pic is when I traveled to Iceland solo!
  <br>
- :bulb: Feel free to reach out with any questions!</p>
+ :bulb: Feel free to reach out with any questions. </p>
 
 
 <!--
