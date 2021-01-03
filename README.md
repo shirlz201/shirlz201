@@ -4,9 +4,9 @@
 <p align="center">
  👩‍💻 Coding Bootcamp Grad (The Software Guild)
  <br>
- :house: Software Engineer WFH
+ :computer: Software Engineer
  <br>
- :computer: :coffee: :earth_americas: :art: :memo:
+  :coffee: :earth_americas: :art: :memo:
  <br>
  ⚡ Fun fact: My profile pic is when I traveled to Iceland solo!
  <br>
