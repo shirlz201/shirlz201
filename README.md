@@ -4,7 +4,7 @@
 <p align="center">
  👩‍💻 Coding Bootcamp Grad (The Software Guild)
  <br>
- :bank: Software Engineer 
+ :house: Software Engineer WFH
  <br>
  :computer: :coffee: :earth_americas: :art: :memo:
  <br>
