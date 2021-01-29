@@ -12,7 +12,7 @@
  <br>
  :bulb: Feel free to reach out with any questions!
  <br>
- :smile: </p>
+ </p>
 
 
 
