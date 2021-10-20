@@ -1,5 +1,5 @@
 
-![](https://github.com/shirlz201/shirlz201/blob/master/myBanner.png)
+![](https://github.com/shirlz201/shirlz201/blob/master/1019_banner.png)
 
 <p align="center">
  👩‍💻 Coding Bootcamp Grad (The Software Guild)
