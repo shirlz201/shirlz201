@@ -4,7 +4,7 @@
 <p align="center">
  👩‍💻 Coding Bootcamp Grad (The Software Guild)
  <br>
- :computer: Software Engineer
+ :computer: Software Engineer @ JPMC
  <br>
   :coffee: :earth_americas: :art: :memo:
  <br>
